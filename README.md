@@ -1,4 +1,4 @@
-# Projeto de Programacao em C
+# Projeto de Programação em C
 
 Este projeto contém a resolução de uma série de exercícios de programação em C desenvolvidos como parte da NP1 da disciplina de programação em C da minha universidade. O objetivo é aplicar conceitos básicos de entrada e saída de dados, estruturas condicionais, loops, validação de dados e lógica de programação.
 
